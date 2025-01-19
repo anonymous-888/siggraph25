@@ -21,7 +21,7 @@ Textured 3D morphing creates smooth and plausible interpolation sequences betwee
 
 ## More Cases
 
-<img src="/static/image/video_ours.gif" width="800" height="450" alt="Example Image">
+![](/static/image/video_ours.gif =800x450)
 
 *Figure 1: More morphing cases.*
 
