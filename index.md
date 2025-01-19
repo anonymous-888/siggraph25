@@ -19,7 +19,7 @@ Textured 3D morphing creates smooth and plausible interpolation sequences betwee
 
 ---
 
-## More Cases
+## More Cases (Ours)
 
 ![](/static/image/video_ours_1.gif) ![](/static/image/video_ours_2.gif)
 ![](/static/image/video_ours_3.gif) ![](/static/image/video_ours_4.gif)
@@ -30,19 +30,19 @@ Textured 3D morphing creates smooth and plausible interpolation sequences betwee
 ![](/static/image/video_ours_13.gif) ![](/static/image/video_ours_14.gif)
 ![](/static/image/video_ours_15.gif) 
 
-## Baseline comparison 1
+## Baseline Comparison 1
 
 ![](/static/image/case_1_diffmorpher.gif) ![](/static/image/case_1_aid.gif)
 ![](/static/image/case_1_mvadapter.gif) ![](/static/image/case_1_luma.gif)
 ![](/static/image/case_1_morphflow.gif) ![](/static/image/case_1_ours.gif)
 
-## Baseline comparison 2
+## Baseline Comparison 2
 
 ![](/static/image/case_2_diffmorpher.gif) ![](/static/image/case_2_aid.gif)
 ![](/static/image/case_2_mvadapter.gif) ![](/static/image/case_2_luma.gif)
 ![](/static/image/case_2_morphflow.gif) ![](/static/image/case_2_ours.gif)
 
-## Baseline comparison 3
+## Baseline Comparison 3
 
 ![](/static/image/case_3_diffmorpher.gif) ![](/static/image/case_3_aid.gif)
 ![](/static/image/case_3_mvadapter.gif) ![](/static/image/case_3_luma.gif)
