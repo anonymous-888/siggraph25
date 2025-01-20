@@ -48,5 +48,9 @@ Textured 3D morphing creates smooth and plausible interpolation sequences betwee
 ![](/static/image/case_3_mvadapter.gif) ![](/static/image/case_3_luma.gif)
 ![](/static/image/case_3_morphflow.gif) ![](/static/image/case_3_ours.gif)
 
+## Ablatin Study
 
+![](/static/image/ablation_1.gif) ![](/static/image/ablation_2.gif)
+![](/static/image/ablation_3.gif) ![](/static/image/ablation_4.gif)
+![](/static/image/ablation_5.gif) ![](/static/image/ablation_6.gif)
 
