@@ -30,23 +30,65 @@ Textured 3D morphing creates smooth and plausible interpolation sequences betwee
 ![](/static/image/video_ours_13.gif) ![](/static/image/video_ours_14.gif)
 ![](/static/image/video_ours_15.gif) 
 
-## Baseline Comparison \# 1/3
+## Baseline Comparison \# 1/10
 
 ![](/static/image/case_1_diffmorpher.gif) ![](/static/image/case_1_aid.gif)
 ![](/static/image/case_1_mvadapter.gif) ![](/static/image/case_1_luma.gif)
 ![](/static/image/case_1_morphflow.gif) ![](/static/image/case_1_ours.gif)
 
-## Baseline Comparison \# 2/3
+## Baseline Comparison \# 2/10
 
 ![](/static/image/case_2_diffmorpher.gif) ![](/static/image/case_2_aid.gif)
 ![](/static/image/case_2_mvadapter.gif) ![](/static/image/case_2_luma.gif)
 ![](/static/image/case_2_morphflow.gif) ![](/static/image/case_2_ours.gif)
 
-## Baseline Comparison \# 3/3
+## Baseline Comparison \# 3/10
 
 ![](/static/image/case_3_diffmorpher.gif) ![](/static/image/case_3_aid.gif)
 ![](/static/image/case_3_mvadapter.gif) ![](/static/image/case_3_luma.gif)
 ![](/static/image/case_3_morphflow.gif) ![](/static/image/case_3_ours.gif)
+
+## Baseline Comparison \# 4/10
+
+![](/static/image/case_4_diffmorpher.gif) ![](/static/image/case_4_aid.gif)
+![](/static/image/case_4_mvadapter.gif) ![](/static/image/case_4_luma.gif)
+![](/static/image/case_4_morphflow.gif) ![](/static/image/case_4_ours.gif)
+
+## Baseline Comparison \# 5/10
+
+![](/static/image/case_5_diffmorpher.gif) ![](/static/image/case_5_aid.gif)
+![](/static/image/case_5_mvadapter.gif) ![](/static/image/case_5_luma.gif)
+![](/static/image/case_5_morphflow.gif) ![](/static/image/case_5_ours.gif)
+
+## Baseline Comparison \# 6/10
+
+![](/static/image/case_6_diffmorpher.gif) ![](/static/image/case_6_aid.gif)
+![](/static/image/case_6_mvadapter.gif) ![](/static/image/case_6_luma.gif)
+![](/static/image/case_6_morphflow.gif) ![](/static/image/case_6_ours.gif)
+
+## Baseline Comparison \# 7/10
+
+![](/static/image/case_7_diffmorpher.gif) ![](/static/image/case_7_aid.gif)
+![](/static/image/case_7_mvadapter.gif) ![](/static/image/case_7_luma.gif)
+![](/static/image/case_7_morphflow.gif) ![](/static/image/case_7_ours.gif)
+
+## Baseline Comparison \# 8/10
+
+![](/static/image/case_8_diffmorpher.gif) ![](/static/image/case_8_aid.gif)
+![](/static/image/case_8_mvadapter.gif) ![](/static/image/case_8_luma.gif)
+![](/static/image/case_8_morphflow.gif) ![](/static/image/case_8_ours.gif)
+
+## Baseline Comparison \# 9/10
+
+![](/static/image/case_9_diffmorpher.gif) ![](/static/image/case_9_aid.gif)
+![](/static/image/case_9_mvadapter.gif) ![](/static/image/case_9_luma.gif)
+![](/static/image/case_9_morphflow.gif) ![](/static/image/case_9_ours.gif)
+
+## Baseline Comparison \# 10/10
+
+![](/static/image/case_10_diffmorpher.gif) ![](/static/image/case_10_aid.gif)
+![](/static/image/case_10_mvadapter.gif) ![](/static/image/case_10_luma.gif)
+![](/static/image/case_10_morphflow.gif) ![](/static/image/case_10_ours.gif)
 
 ## Ablation Study
 
